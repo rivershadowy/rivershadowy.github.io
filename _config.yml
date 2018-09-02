@@ -1,10 +1,11 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+title:              Fading Light
+bio:                'No bio'
+description:        "No description"
+locale:             zh_CN
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
+encoding: utf-8
 
 defaults:
 - scope:
@@ -13,7 +14,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    author:
+    author: Rivershadowy
 
 # Jekyll
 permalink:          /blog/:title/
@@ -41,9 +42,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Beijing, China
+phone:              NA
+email:              rivershadowy@gmail.com
 
 # Gems
 gems:
